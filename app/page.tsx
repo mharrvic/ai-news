@@ -36,7 +36,8 @@ export default function Page() {
             <li>On-premise deployment</li>
             <li>Cloud computing</li>
           </ul>
-          <p>
+
+          <p className="mt-4">
             Each topic is accompanied by engaging descriptions and relevant
             links for in-depth information. Designed for busy readers seeking
             concise and informative summaries.
