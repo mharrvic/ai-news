@@ -77,7 +77,7 @@ export default function News({ params }) {
             url: `${baseUrl}/news/${post.slug}`,
             author: {
               "@type": "Person",
-              name: "My Portfolio",
+              name: "AI News",
             },
           }),
         }}

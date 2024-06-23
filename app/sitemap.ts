@@ -1,6 +1,6 @@
 import { getNewsPosts } from "app/news/utils";
 
-export const baseUrl = "https://portfolio-news-starter.vercel.app";
+export const baseUrl = "https://ai-curated-news.vercel.app";
 
 export default async function sitemap() {
   let news = getNewsPosts().map((post) => ({
